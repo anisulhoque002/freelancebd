@@ -1,0 +1,287 @@
+{
+  "common": {
+    "loading": "Loading..."
+  },
+  "navbar": {
+    "aboutUs": "About Us",
+    "categories": "Categories",
+    "explore": "Explore",
+    "signin": "Sign In",
+    "join": "Join",
+    "becomeASeller": "Become a Seller",
+    "language": "Language",
+    "createGig": "Create Gig",
+    "orders": "Orders",
+    "switchToBuyer": "Switch To Buyer",
+    "switchToSeller": "Switch To Seller",
+    "profile": "Profile",
+    "editProfile": "Edit Profile",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "profileDetails": "Profile Details"
+  },
+  "hero": {
+    "title": "We do the work of the country in the country, building a self-reliant nation.",
+    "searchPlaceholder": "Try \"building mobile app\"",
+    "popularTags": "Popular:",
+    "popularSearches": {
+      "webDesign": "Website Design",
+      "wordpress": "Wordpress",
+      "logoDesign": "Logo Design",
+      "aiServices": "AI Services"
+    }
+  },
+  "services": {
+    "title": "You need it, we've got it",
+    "categories": {
+      "graphicDesign": "Graphic Design",
+      "digitalMarketing": "Digital Marketing",
+      "writingTranslation": "Writing & Translation",
+      "videoAnimation": "Video & Animation",
+      "musicAudio": "Music & Audio",
+      "programmingTech": "Programming & Tech",
+      "business": "Business",
+      "lifestyle": "Lifestyle",
+      "data": "Data",
+      "photography": "Photography"
+    }
+  },
+  "footer": {
+    "contact": {
+      "title": "Contact Us",
+      "email": "support@freelancebd.com",
+      "phone": "+880 1234-567890",
+      "address": "123 Digital Street, Dhaka 1200, Bangladesh"
+    },
+    "social": {
+      "title": "Follow Us",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    }
+  },
+  "auth": {
+    "loginToFreelanceBD": "Login to FreelanceBD",
+    "signupToFreelanceBD": "Sign up to FreelanceBD",
+    "emailUsername": "Email / Username",
+    "password": "Password",
+    "continue": "Continue",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "joinNow": "Join Now",
+    "loginNow": "Login Now"
+  },
+  "popular": {
+    "title": "Popular Services",
+    "services": {
+      "aiArtists": {
+        "name": "AI Artists",
+        "label": "Add talent to AI"
+      },
+      "logoDesign": {
+        "name": "Logo Design",
+        "label": "Build your brand"
+      },
+      "wordpress": {
+        "name": "WordPress",
+        "label": "Customize your site"
+      },
+      "voiceOver": {
+        "name": "Voice Over",
+        "label": "Share your message"
+      },
+      "socialMedia": {
+        "name": "Social Media",
+        "label": "Reach more customers"
+      },
+      "seo": {
+        "name": "SEO",
+        "label": "Unlock growth online"
+      },
+      "illustration": {
+        "name": "Illustration",
+        "label": "Color your dreams"
+      },
+      "translation": {
+        "name": "Translation",
+        "label": "Go global"
+      }
+    }
+  },
+  "business": {
+    "title": "FreelanceBD Business Solutions",
+    "features": {
+      "expertFreelancers": {
+        "title": "Connect to Expert Freelancers",
+        "description": "Find the perfect match for your project from our talented pool of professionals"
+      },
+      "securePayments": {
+        "title": "Secure Payments",
+        "description": "Payment protection and convenient payment methods for peace of mind"
+      },
+      "qualityWork": {
+        "title": "Quality Work",
+        "description": "Get high-quality deliverables that meet your business standards"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Round-the-clock assistance to help you with any questions"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "unique": {
+        "question": "What makes FreelanceBD unique?",
+        "answer": "FreelanceBD offers a diverse pool of talented freelancers, secure payment systems, and quality assurance for all projects."
+      },
+      "payments": {
+        "question": "How do payments work?",
+        "answer": "We offer secure payment methods with escrow protection to ensure both parties are satisfied with the transaction."
+      },
+      "jobs": {
+        "question": "How do I find the right freelancer?",
+        "answer": "You can browse portfolios, reviews, and ratings to find the perfect match for your project needs."
+      },
+      "security": {
+        "question": "Is my data secure?",
+        "answer": "Yes, we implement industry-standard security measures to protect your personal and business information."
+      },
+      "documents": {
+        "question": "What documents do I need to start?",
+        "answer": "You only need a valid email address and payment method to get started with FreelanceBD."
+      }
+    }
+  },
+  "gigs": {
+    "create": {
+      "title": "Create a new Gig",
+      "subtitle": "Enter the details to create the gig",
+      "gigTitle": "Gig Title",
+      "titlePlaceholder": "e.g. I will do something I'm really good at",
+      "selectCategory": "Select a Category",
+      "description": "Gig Description",
+      "descriptionPlaceholder": "Write a short description",
+      "deliveryTime": "Delivery Time",
+      "deliveryPlaceholder": "Minimum Delivery Time",
+      "revisions": "Revisions",
+      "revisionsPlaceholder": "Max Number of Revisions",
+      "features": "Features",
+      "featurePlaceholder": "Enter a Feature Name",
+      "addFeature": "Add",
+      "gigImages": "Gig Images",
+      "shortDescription": "Short Description",
+      "shortDescPlaceholder": "Enter a short description.",
+      "price": "Gig Price ( ৳ )",
+      "pricePlaceholder": "Enter a price",
+      "createButton": "Create",
+      "editButton": "Edit"
+    },
+    "list": {
+      "title": "All your Gigs",
+      "table": {
+        "name": "Name",
+        "category": "Category",
+        "price": "Price",
+        "deliveryTime": "Delivery Time",
+        "edit": "Edit",
+        "delete": "Delete"
+      }
+    },
+    "orders": {
+      "title": "All your Orders",
+      "table": {
+        "orderId": "Order Id",
+        "name": "Name",
+        "category": "Category",
+        "price": "Price",
+        "deliveryTime": "Delivery Time",
+        "orderedBy": "Ordered By",
+        "orderDate": "Order Date",
+        "sendMessage": "Send Message",
+        "send": "Send"
+      }
+    },
+    "search": {
+      "rating": "Rating",
+      "reviews": "Reviews",
+      "from": "From"
+    },
+    "details": {
+      "aboutThisGig": "About this gig",
+      "aboutTheSeller": "About the seller",
+      "startingAt": "Starting at",
+      "price": "₳{{amount}}",
+      "currency": "BDT",
+      "reviews": "Reviews",
+      "deliveryTime": "Delivery Time",
+      "revisions": "Revisions"
+    },
+    "contactMe": "Contact Me",
+    "continue": "Continue"
+  },
+  "about": {
+    "title": "About FreelanceBD",
+    "mission": {
+      "title": "Our Mission",
+      "description": "At FreelanceBD, our mission is to empower talented individuals and businesses in Bangladesh to connect, collaborate, and thrive in the digital economy. We strive to create opportunities that enable economic growth and professional development while fostering a community built on trust, quality, and innovation."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "We envision FreelanceBD as the premier platform that transforms the freelancing landscape in Bangladesh, making it easier for skilled professionals to showcase their talents globally while helping businesses find the perfect match for their projects. Our goal is to be the catalyst for digital entrepreneurship and economic empowerment in Bangladesh."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "value1": {
+        "title": "Quality & Excellence",
+        "description": "We are committed to maintaining the highest standards of quality in every interaction and transaction on our platform."
+      },
+      "value2": {
+        "title": "Trust & Transparency",
+        "description": "We build trust through transparent practices, secure payments, and honest communication between all parties."
+      },
+      "value3": {
+        "title": "Innovation & Growth",
+        "description": "We continuously innovate and adapt to provide the best tools and opportunities for our community's growth and success."
+      }
+    }
+  },
+  "reviews": {
+    "title": "Reviews",
+    "reviewsCount": "Reviews",
+    "addReview": "Add a Review for {{name}}",
+    "reviewPlaceholder": "Write your review here...",
+    "addReviewButton": "Add Review"
+  },
+  "profile": {
+    "welcome": "Welcome to FreelanceBD",
+    "completeProfile": "Please complete your profile to get started",
+    "selectProfilePicture": "Select a profile Picture",
+    "selectUsername": "Please select a username",
+    "usernamePlaceholder": "Username",
+    "enterFullName": "Please enter your full Name",
+    "fullNamePlaceholder": "Full Name",
+    "description": "Description",
+    "descriptionPlaceholder": "Write something about yourself",
+    "setProfile": "Set Profile",
+    "uniqueUsername": "Enter a Unique Username",
+    "editProfile": "Edit Profile",
+    "portfolioLink": "Portfolio Link",
+    "portfolioLinkPlaceholder": "Enter your portfolio website URL",
+    "viewPortfolio": "View Portfolio",
+    "reviews": "Reviews",
+    "profileDetails": "Profile Details"
+  },
+  "seller": {
+    "dashboard": {
+      "totalGigs": "Total Gigs",
+      "totalOrders": "Total Orders",
+      "unreadMessages": "Unread Messages",
+      "earningsToday": "Earnings Today",
+      "earningsMonthly": "Earnings Monthly",
+      "earningsYearly": "Earnings Yearly"
+    }
+  }
+} 
